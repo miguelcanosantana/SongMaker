@@ -2,7 +2,7 @@
 Little Java Program that will allow You make nonsense songs.
 
 ### Compile
-First of all you need to compile with the code:
+First of all you need to go to the "Program" folder and compile with the code:
 ```
 javac SongMaker.java
 ```
